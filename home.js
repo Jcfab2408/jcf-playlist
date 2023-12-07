@@ -10,20 +10,17 @@ const cover = document.getElementById('cover');
 
 // Song titles
 const songs = [
-  'ven_devorame_otra_vez',
   'Abrazame_muy_fuerte',
-  'El_hombre_que_yo_amo',
-  'Solo_con_un_beso',
+  'Preso',
+  'Con la misma moneda', 
+  'El hombre que yo amo',
 ];
 // Song Links
 const urlmp3 =[
-  "https://github.com/Jcfab2408/jcf-mp3/blob/main/mp3/salsas/Abrazame_muy_fuerte.mp3",
-
-  "https://firebasestorage.googleapis.com/v0/b/ucrania-proj.appspot.com/o/Mp3%2FSalsas%2FANGIE%20CHAVEZ%20%26%20Orq%20-%20Ven%2C%20dev%C3%B3rame%20otra%20vez%20(2022).mp3?alt=media&token=54cbb0d6-ae9b-4a8d-acf9-ccec86461137",
-
-  "https://firebasestorage.googleapis.com/v0/b/ucrania-proj.appspot.com/o/Mp3%2FSalsas%2FANGIE%20CHAVEZ%20%26%20Orq%20-%20Ven%2C%20dev%C3%B3rame%20otra%20vez%20(2022).mp3?alt=media&token=54cbb0d6-ae9b-4a8d-acf9-ccec86461137",
-
-  "https://firebasestorage.googleapis.com/v0/b/ucrania-proj.appspot.com/o/Mp3%2FSalsas%2FANGIE%20CHAVEZ%20%26%20Orq%20-%20Ven%2C%20dev%C3%B3rame%20otra%20vez%20(2022).mp3?alt=media&token=54cbb0d6-ae9b-4a8d-acf9-ccec86461137"  
+  "music/salsas/LA SOLUCION - Abrazame Muy Fuerte",
+  "music/salsas/ALVARO ROD - Preso (Salsa Live Session)",
+  "music/salsas/SENSACION SALSERA - Con la misma moneda",
+  "music/salsas/GIGANTES DE LA SALSA - El hombre que yo amo"
 ];
 
 // Keep track of song
@@ -35,7 +32,7 @@ loadSong(songs[songIndex], urlmp3[songIndex]);
 // Update song details
 function loadSong(song, url) {
   title.innerText = song;
-  audio.src = '${url}';
+  audio.src = '${url}.mp3';
   cover.src = 'images/${song}.jpg';
 }
 
