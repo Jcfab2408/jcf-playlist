@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>music player</title>
+    <link rel="stylesheet" href="home.css">
+    <link rel="icon" type="image/x-icon" href="images/fd.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="navbar" id="navbar">
+            <div class="logo">
+                <img src="images/melody.jpg" alt="logo">
+            </div>
+            <a href="#">Home</a>
+            <a href="https://www.jiosaavn.com/shows/kahaaniya/1/SWXbXhBWwtA_">Podcast</a>
+            <a href="https://play.google.com/store/apps">Download app</a>
+            <a href="#">Sign in</a>
+            <a href="#" class="icon" onclick="shownav()" >
+                <i class="fa fa-bars"></i>
+            </a>            
+        </div>
+
+        <div id='player' class="player">
+            <div class="audio-container" id="audio-container">
+                <div class="audio-info">
+                    <h4 id="title">Melody</h4>
+                    <div class="progress-container" id="progress-container">
+                        <div class="progress" id="progress"></div>
+                    </div>
+                </div>
+                <audio src="music/ven_devorame_otra_vez.mp3" id="audio"></audio>
+                <div class="img-container">
+                    <img src="https://bharatlyrics.com/wp-content/uploads/2021/02/barood-wargi.jpg" alt="music-cover" id="cover">
+                </div>
+                <div class="navigation">
+                    <button id="prev" class="action-btn">
+                        <i class="fas fa-backward"></i>
+                    </button>
+                    <button id="play" class="action-btn action-btn-big">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <button id="next" class="action-btn">
+                        <i class="fas fa-forward"></i>
+                    </button>        
+                </div>        
+            </div>
+        </div>
+
+        <div class="content">            
+            <div class="recently">
+                <h1>Recently Played</h1><br><br>
+                <div class="recently cont">          
+                    <a onclick="playthis(0);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://bharatlyrics.com/wp-content/uploads/2021/02/barood-wargi.jpg">
+                    </a>
+                    <a onclick="playthis(1);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://c.saavncdn.com/554/Naagni-Haryanvi-2021-20210702222542-500x500.jpg">
+                    </a>
+                    <a onclick="playthis(2);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://static.toiimg.com/photo/msid-65159636/65159636.jpg">
+                    </a>
+                    <a onclick="playthis(3);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://www.ilyricshub.com/wp-content/uploads/2020/09/tu-aake-dekhle-king.jpg">
+                    </a>                    
+                    <a onclick="playthis(0);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://www.lyricsbull.com/wp-content/uploads/2020/12/jingle-bell-yo-yo-honey-singh.jpg">
+                    </a>
+                    <a onclick="playthis(1);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://a10.gaanacdn.com/images/albums/18/18/crop_480x480_18.jpg">
+                    </a><br><br>
+                </div>
+            </div>
+
+            <div class="recently">
+                <h1>New Releases</h1><br><br>
+                <div class="recently cont">
+                    <a onclick="playthis(2);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://c.saavncdn.com/366/Baithe-Baithe-Hindi-2021-20210728105931-500x500.jpg">
+                    </a>
+                    <a onclick="playthis(3);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://i0.wp.com/99lyricstore.com/wp-content/uploads/2022/02/dhokha-lyrics-arijit-singh.jpg">
+                    </a>
+                    <a onclick="playthis(0);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://www.djsbuzz.in/wp-content/uploads/2022/02/nacho-nacho-rrr-remix-dj-purvish.jpg">
+                    </a>
+                    <a onclick="playthis(1);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://static.toiimg.com/photo/msid-86253410/86253410.jpg">
+                    </a>
+                    <a onclick="playthis(2);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://i.ytimg.com/vi/VYslt8bc-4Q/maxresdefault.jpg">
+                    </a>
+                    <a onclick="playthis(3);" ondblclick="pauseSong()" class="song" >
+                        <img src="https://www.pagalvvorld.com/wp-content/uploads/2022/05/Bhool-Bhulaiyaa-2-Title-Track-mp3-image.jpg">
+                    </a><br><br>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+    <script src="home.js"></script>
+</body>
+
+</html>
