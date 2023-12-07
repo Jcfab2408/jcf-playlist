@@ -10,7 +10,7 @@ const cover = document.getElementById('cover');
 
 // Song titles
 const songs = [
-  'Abrazame_muy_fuerte',
+  'Abrazame muy fuerte',
   'Preso',
   'Con la misma moneda', 
   'El hombre que yo amo',
