@@ -13,10 +13,11 @@ const songs = [
   'Abrazame muy fuerte',
   'Preso',
   'Con la misma moneda', 
-  'El hombre que yo amo',
+  'El hombre que yo amo'
 ];
+
 // Song Links
-const urlmp3 =[
+const urlmp3 = [
   "music/salsas/LA_SOLUCION_Abrazame_Muy_Fuerte.mp3",
   "music/salsas/ALVARO ROD - Preso (Salsa Live Session).mp3",
   "music/salsas/SENSACION SALSERA - Con la misma moneda.mp3",
@@ -33,7 +34,7 @@ loadSong(songs[songIndex], urlmp3[songIndex]);
 function loadSong(song, url) {
   title.innerText = song;
   audio.src = '${url}';
-  cover.src = 'images/${song}.jpg';
+  cover.src = 'images/fd.png';
 }
 
 // Play song
