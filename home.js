@@ -18,7 +18,7 @@ const songs = [
 
 // Song Links
 const urlmp3 = [
-  "music/salsas/LA_SOLUCION_Abrazame_Muy_Fuerte.mp3",
+  "music/salsas/LA SOLUCION - Abrazame Muy Fuerte.mp3",
   "music/salsas/ALVARO ROD - Preso (Salsa Live Session).mp3",
   "music/salsas/SENSACION SALSERA - Con la misma moneda.mp3",
   "music/salsas/GIGANTES DE LA SALSA - El hombre que yo amo.mp3"
