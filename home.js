@@ -33,7 +33,7 @@ loadSong(songs[songIndex], urlmp3[songIndex]);
 // Update song details
 function loadSong(song, url) {
   title.innerText = song;
-  audio.src = '${url}';
+  audio.src = url;
   cover.src = 'images/fd.png';
 }
 
