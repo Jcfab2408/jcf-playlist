@@ -10,10 +10,10 @@ const cover = document.getElementById('cover');
 
 // Song titles
 const songs = [
-  'Abrazame multo fuerte',
+  'Abrazame Muy Fuerte',
   'Preso',
-  'Con la misma moneda', 
-  'El hombre que yo amo'
+  'Con La Misma Moneda', 
+  'El Hombre Que Yo Amo'
 ];
 
 // Song Links
