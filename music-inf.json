@@ -53,7 +53,16 @@
           "song": "./music/salsas/ANGIE CHAVEZ & Orq - Ven devorame otra vez (2022).mp3",
           "cover": "./assets/nota.png"
         }
-      }      
+      },
+      {
+        "bg": "#09cea28f",
+        "artist": "BRUNELLA TORPOCO",
+        "songName": "Me Fallaste",
+        "files": {
+          "song": "./music/salsas/KAROL G & SHAKIRA - TQG (Salsa).mp3",
+          "cover": "./assets/nota.png"
+        }
+      },        
     ]
   }
 
