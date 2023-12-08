@@ -56,13 +56,13 @@
       },
       {
         "bg": "#09cea28f",
-        "artist": "BRUNELLA TORPOCO",
-        "songName": "Me Fallaste",
+        "artist": "KAROL G & SHAKIRA",
+        "songName": "TQG (Salsa Version)",
         "files": {
           "song": "./music/salsas/KAROL G & SHAKIRA - TQG (Version Salsa Jane Riascos).mp3",
           "cover": "./assets/nota.png"
         }
-      },        
+      } 
     ]
   }
 
