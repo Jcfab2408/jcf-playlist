@@ -1,0 +1,62 @@
+{
+    "songs": [
+      {
+        "bg": "#0896eba1",
+        "artist": "ALVARO ROD",
+        "songName": "Preso",
+        "files": {
+          "song": "./music/salsas/ALVARO ROD - Preso (Salsa Live Session).mp3",
+          "cover": "./assets/nota.png"
+        }
+      },
+      {
+        "bg": "#c9bea28f",
+        "artist": "ORQ LA SOLUCION",
+        "songName": "Abrazame muy fuerte",
+        "files": {
+          "song": "./music/salsas/LA SOLUCION - Abrazame Muy Fuerte.mp3",
+          "cover": "./assets/nota.png"
+        }
+      },
+      {
+        "bg": "#09cea28f",
+        "artist": "GIGANTES DE LA SALSA",
+        "songName": "El hombre que yo amo",
+        "files": {
+          "song": "./music/salsas/GIGANTES DE LA SALSA - El hombre que yo amo.mp3",
+          "cover": "./assets/nota.png"
+        }
+      },
+      {
+        "bg": "#09cea28f",
+        "artist": "SENSACION SALSERA",
+        "songName": "Con la misma moneda",
+        "files": {
+          "song": "./music/salsas/SENSACION SALSERA - Con la misma moneda.mp3",
+          "cover": "./assets/nota.png"
+        }
+      },
+      {
+        "bg": "#09cea28f",
+        "artist": "BRUNELLA TORPOCO",
+        "songName": "Me Fallaste",
+        "files": {
+          "song": "./music/salsas/BRUNELLA TORPOCO -  Me Fallaste (Live).mp3",
+          "cover": "./assets/nota.png"
+        }
+      },
+      {
+        "bg": "#09cea28f",
+        "artist": "ANGIE CHAVEZ & ORQ",
+        "songName": "Ven devorame otra vez",
+        "files": {
+          "song": "./music/salsas/ANGIE CHAVEZ & Orq - Ven devorame otra vez (2022).mp3",
+          "cover": "./assets/nota.png"
+        }
+      }      
+    ]
+  }
+
+
+  
+  
