@@ -1,71 +1,94 @@
 {
-    "songs": [
-      {
-        "bg": "#0896eba1",
-        "artist": "ALVARO ROD",
-        "songName": "Preso",
-        "files": {
-          "song": "./music/salsas/ALVARO ROD - Preso (Salsa Live Session).mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#c9bea28f",
-        "artist": "ORQ LA SOLUCION",
-        "songName": "Abrazame muy fuerte",
-        "files": {
-          "song": "./music/salsas/LA SOLUCION - Abrazame Muy Fuerte.mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#09cea28f",
-        "artist": "GIGANTES DE LA SALSA",
-        "songName": "El hombre que yo amo",
-        "files": {
-          "song": "./music/salsas/GIGANTES DE LA SALSA - El hombre que yo amo.mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#09cea28f",
-        "artist": "SENSACION SALSERA",
-        "songName": "Con la misma moneda",
-        "files": {
-          "song": "./music/salsas/SENSACION SALSERA - Con la misma moneda.mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#09cea28f",
-        "artist": "BRUNELLA TORPOCO",
-        "songName": "Me Fallaste",
-        "files": {
-          "song": "./music/salsas/BRUNELLA TORPOCO -  Me Fallaste (Live).mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#09cea28f",
-        "artist": "ANGIE CHAVEZ & ORQ",
-        "songName": "Ven devorame otra vez",
-        "files": {
-          "song": "./music/salsas/ANGIE CHAVEZ & Orq - Ven devorame otra vez (2022).mp3",
-          "cover": "./assets/nota.png"
-        }
-      },
-      {
-        "bg": "#09ce208f",
-        "artist": "KAROL G & SHAKIRA",
-        "songName": "TQG (Salsa Version)",
-        "files": {
-          "song": "./music/salsas/KAROL G & SHAKIRA - TQG (Version Salsa Jane Riascos).mp3",
-          "cover": "./assets/nota.png"
-        }
-      } 
-    ]
+  "songs": [
+    {
+      "bg": "#0896eba1",
+      "artist": "ALVARO ROD",
+      "songName": "Preso",
+      "files": {
+        "song": "./music/salsas/ALVARO ROD - Preso.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "ORQ LA SOLUCION",
+      "songName": "Abrazame muy fuerte",
+      "files": {
+        "song": "./music/salsas/LA SOLUCION - Abrazame Muy Fuerte.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#09cea28f",
+      "artist": "GIGANTES DE LA SALSA",
+      "songName": "El hombre que yo amo",
+      "files": {
+        "song": "./music/salsas/GIGANTES DE LA SALSA - El hombre que yo amo.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#b848ff",
+      "artist": "SENSACION SALSERA",
+      "songName": "Con la misma moneda",
+      "files": {
+        "song": "./music/salsas/SENSACION SALSERA - Con la misma moneda.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#09cea28f",
+      "artist": "BRUNELLA TORPOCO",
+      "songName": "Me Fallaste",
+      "files": {
+        "song": "./music/salsas/BRUNELLA TORPOCO -  Me Fallaste (Live).mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#ff5500",
+      "artist": "ANGIE CHAVEZ & ORQ",
+      "songName": "Ven devorame otra vez",
+      "files": {
+        "song": "./music/salsas/ANGIE CHAVEZ & Orq - Ven devorame otra vez (2022).mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#09ce208f",
+      "artist": "KAROL G & SHAKIRA",
+      "songName": "TQG (Salsa Version)",
+      "files": {
+        "song": "./music/salsas/KAROL G & SHAKIRA - TQG (Version Salsa Jane Riascos).mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#ccce1089",
+      "artist": "BRUNELLA TORPOCO",
+      "songName": "Otra Ocupa Mi Lugar",
+      "files": {
+        "song": "./music/salsas/BRUNELLA TORPOCO - Otra Ocupa Mi Lugar (Video Oficial).mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#cbfe3019",
+      "artist": "SENSACION SALSERA",
+      "songName": "Mi Cama Huele A Ti",
+      "files": {
+        "song": "./music/salsas/SENSACION SALSERA - Mi Cama Huele A ti.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#ff5500",
+      "artist": "YAHAIRA PLASCENCIA",
+      "songName": "Acariciame",
+      "files": {
+        "song": "./music/salsas/YAHAIRA PLASCENCIA - Acariciame.mp3",
+        "cover": "./assets/nota.png"
+      }
+    }
+  ]
 }
-
-
-  
-  
