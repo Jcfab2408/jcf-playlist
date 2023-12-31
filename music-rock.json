@@ -14,14 +14,14 @@
       "artist": "KISS",
       "songName": "I was made for loving you",
       "files": {
-        "song": "./music/rock_clasico/Kiss - I was made for loving you.mp3",
+        "song": "./music/rock_clasico/Kiss - I was made for loving you.MP3",
         "cover": "./assets/nota.png"
       }
     },
     {
       "bg": "#09cea28f",
       "artist": "THE ROLLING STONES",
-      "songName": "El hombre que yo amo",
+      "songName": "She is so cool",
       "files": {
         "song": "./music/rock_clasico/Rolling Stones - She is so cool.mp3",
         "cover": "./assets/nota.png"
