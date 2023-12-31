@@ -80,6 +80,15 @@
         "song": "./music/baladas/Radiohead - Creep.mp3",
         "cover": "./assets/nota.png"
       }
-    }    
+    },
+    {
+      "bg": "#6cb130",
+      "artist": "BON JOVI",
+      "songName": "Blaze of glory",
+      "files": {
+        "song": "./music/baladas/Bon Jovi - Blaze of glor (cross road).mp3",
+        "cover": "./assets/nota.png"
+      }
+    }        
   ]
 }
