@@ -1,0 +1,31 @@
+{
+  "songs": [
+    {
+      "bg": "#0896eba1",
+      "artist": "AC DC",
+      "songName": "Long way to the top",
+      "files": {
+        "song": "./music/rock_clasico/ACDC - Long way to the top.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "KISS",
+      "songName": "I was made for loving you",
+      "files": {
+        "song": "./music/rock_clasico/KISS - I was made for loving you.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#09cea28f",
+      "artist": "THE ROLLING STONES",
+      "songName": "El hombre que yo amo",
+      "files": {
+        "song": "./music/rock_clasico/Rolling Stones - She is so cool.mp3",
+        "cover": "./assets/nota.png"
+      }
+    }
+  ]
+}

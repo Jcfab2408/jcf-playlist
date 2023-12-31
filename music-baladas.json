@@ -1,0 +1,31 @@
+{
+  "songs": [
+    {
+      "bg": "#0896eba1",
+      "artist": "FOREIGNER",
+      "songName": "I want to know what love is",
+      "files": {
+        "song": "./music/baladas/Foreigner - I want to know what love is.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#c9bea28f",
+      "artist": "AIR SUPPLY",
+      "songName": "Making love out of nothing at all",
+      "files": {
+        "song": "./music/baladas/Air Supply - Making love out of nothing at all.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#09cea28f",
+      "artist": "BRYAN ADAMS",
+      "songName": "Please Forgive Me",
+      "files": {
+        "song": "./music/baladas/Bryan Adams - Please Forgive Me.mp3",
+        "cover": "./assets/nota.png"
+      }
+    }
+  ]
+}

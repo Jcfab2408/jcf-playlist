@@ -75,7 +75,7 @@ body {
   justify-content: center;
   height: calc(var(--vH) * 100);
   font-family: Avenir, sans-serif;
-  background-color: var(--body-bg, #fff);
+  background-color: var(--body-bg, #fffeba);
   -webkit-tap-highlight-color: transparent;
   transition: var(--duration) background-color var(--ease-slider);
 }
