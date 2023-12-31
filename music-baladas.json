@@ -44,6 +44,42 @@
         "song": "./music/baladas/Chris de Burgh - Lady in Red.mp3",
         "cover": "./assets/nota.png"
       }
-    }  
+    },
+    {
+      "bg": "#0593eba1",
+      "artist": "AEROSMITH",
+      "songName": "Crazy",
+      "files": {
+        "song": "./music/baladas/Aerosmith - Crazy.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#435bb7",
+      "artist": "NAZARETH",
+      "songName": "Love Hurt",
+      "files": {
+        "song": "./music/baladas/Nazareth - Love Hurt.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#f18c0a",
+      "artist": "CRANBERRIES",
+      "songName": "Zombie",
+      "files": {
+        "song": "./music/baladas/Cranberries - Zombie.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#6cb130",
+      "artist": "RADIOHEAD",
+      "songName": "Creep",
+      "files": {
+        "song": "./music/baladas/Radiohead - Creep.mp3",
+        "cover": "./assets/nota.png"
+      }
+    }    
   ]
 }
