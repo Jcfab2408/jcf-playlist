@@ -19,13 +19,31 @@
       }
     },
     {
-      "bg": "#09cea28f",
+      "bg": "#09cea31f",
       "artist": "BRYAN ADAMS",
       "songName": "Please Forgive Me",
       "files": {
         "song": "./music/baladas/Bryan Adams - Please Forgive Me.mp3",
         "cover": "./assets/nota.png"
       }
-    }
+    },
+    {
+      "bg": "#09ceb18f",
+      "artist": "SINEAD O'CONNOR",
+      "songName": "Nothing compares to you",
+      "files": {
+        "song": "./music/baladas/Sinead O'connor - Nothing compares to you.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },
+    {
+      "bg": "#0896eba1",
+      "artist": "CHRIS DE BURGH",
+      "songName": "Lady in red",
+      "files": {
+        "song": "./music/baladas/Chris de Burgh - Lady in Red.mp3",
+        "cover": "./assets/nota.png"
+      }
+    }  
   ]
 }
