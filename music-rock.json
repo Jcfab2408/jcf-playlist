@@ -35,6 +35,15 @@
         "song": "./music/rock_clasico/George Thorogood - Bad to the bone.MP3",
         "cover": "./assets/nota.png"
       }
-    }    
+    },
+    {
+      "bg": "#fcc525ff",
+      "artist": "QUEEN",
+      "songName": "Crazy Thing Call Love",
+      "files": {
+        "song": "./music/rock_clasico/Queen - Crazy thing call love.MP3",
+        "cover": "./assets/nota.png"
+      }
+    }     
   ]
 }
