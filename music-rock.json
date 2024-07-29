@@ -21,11 +21,20 @@
     {
       "bg": "#09cea28f",
       "artist": "THE ROLLING STONES",
-      "songName": "She is so cool",
+      "songName": "She is so Cool",
       "files": {
         "song": "./music/rock_clasico/Rolling Stones - She is so cool.mp3",
         "cover": "./assets/nota.png"
       }
-    }
+    },
+    {
+      "bg": "#09cea28f",
+      "artist": "GEORGE THOROGOOD",
+      "songName": "Bad To The Bone",
+      "files": {
+        "song": "./music/rock_clasico/George Thorogood - Bad to the bone.MP3",
+        "cover": "./assets/nota.png"
+      }
+    }    
   ]
 }
