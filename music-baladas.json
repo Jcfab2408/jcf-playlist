@@ -30,9 +30,9 @@
     {
       "bg": "#4ab150",
       "artist": "ROXETTE",
-      "songName": "Its Must Have Been Love",
+      "songName": "It Must Have Been Love",
       "files": {
-        "song": "./music/baladas/Roxette - Its Must Have Been Love.mp3",
+        "song": "./music/baladas/Roxette - It Must Have Been Love.mp3",
         "cover": "./assets/nota.png"
       }
     },    
