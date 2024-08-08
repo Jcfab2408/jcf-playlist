@@ -28,6 +28,15 @@
       }
     },
     {
+      "bg": "#4ab150",
+      "artist": "ROXETTE",
+      "songName": "Its Must Have Been Love",
+      "files": {
+        "song": "./music/baladas/Roxette - Its Must Have Been Love.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },    
+    {
       "bg": "#09ceb18f",
       "artist": "SINEAD O'CONNOR",
       "songName": "Nothing compares to you",
@@ -63,6 +72,15 @@
         "cover": "./assets/nota.png"
       }
     },
+    {
+      "bg": "#6ab380",
+      "artist": "WHAM",
+      "songName": "Cacelles Whisper",
+      "files": {
+        "song": "./music/baladas/Wham - Cacelles Whisper.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },    
     {
       "bg": "#f18c0a",
       "artist": "CRANBERRIES",
