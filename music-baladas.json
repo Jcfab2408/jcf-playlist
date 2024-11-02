@@ -64,6 +64,15 @@
       }
     },
     {
+      "bg": "#6cb130",
+      "artist": "ROCKWELL",
+      "songName": "Cut Like the knife",
+      "files": {
+        "song": "./music/baladas/Rockwell - Cut Like the knife.mp3",
+        "cover": "./assets/nota.png"
+      }
+    },    
+    {
       "bg": "#0593eba1",
       "artist": "AEROSMITH",
       "songName": "Crazy",
