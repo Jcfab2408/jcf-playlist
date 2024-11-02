@@ -35,6 +35,15 @@
         "song": "./music/baladas/Roxette - It Must Have Been Love.mp3",
         "cover": "./assets/nota.png"
       }
+    },
+    {
+      "bg": "#f18c0a",
+      "artist": "RICHARD MARX",
+      "songName": "Right here waiting for you",
+      "files": {
+        "song": "./music/baladas/Richard Marx - Right here waiting.mp3",
+        "cover": "./assets/nota.png"
+      }
     },    
     {
       "bg": "#09ceb18f",
